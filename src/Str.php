@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Yansongda\Supports;
+namespace Pengxul\Supports;
 
 /**
  * Most of the methods in this file come from illuminate/support.

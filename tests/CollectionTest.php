@@ -1,9 +1,9 @@
 <?php
 
-namespace Yansongda\Supports\Tests;
+namespace Pengxul\Supports\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Yansongda\Supports\Collection;
+use Pengxul\Supports\Collection;
 
 class CollectionTest extends TestCase
 {

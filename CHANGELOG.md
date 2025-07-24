@@ -6,5 +6,5 @@
 
 ## delete
 
-- 删除 Yansongda\Supports\Logger\StdoutHandler
-- 删除 Yansongda\Supports\Logger
+- 删除 Pengxul\Supports\Logger\StdoutHandler
+- 删除 Pengxul\Supports\Logger

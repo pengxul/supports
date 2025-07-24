@@ -1,10 +1,10 @@
 <?php
 
-namespace Yansongda\Supports\Tests;
+namespace Pengxul\Supports\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Yansongda\Supports\Collection;
-use Yansongda\Supports\Config;
+use Pengxul\Supports\Collection;
+use Pengxul\Supports\Config;
 
 class ConfigTest extends TestCase
 {

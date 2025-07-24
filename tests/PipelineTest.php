@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Yansongda\Supports\Tests;
+namespace Pengxul\Supports\Tests;
 
-use Yansongda\Supports\Pipeline;
-use Yansongda\Supports\Tests\Stubs\FooPipeline;
+use Pengxul\Supports\Pipeline;
+use Pengxul\Supports\Tests\Stubs\FooPipeline;
 use Mockery;
 use PHPUnit\Framework\TestCase;
 use Psr\Container\ContainerInterface;
