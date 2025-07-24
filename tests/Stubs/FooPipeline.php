@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Yansongda\Supports\Tests\Stubs;
+namespace Pengxul\Supports\Tests\Stubs;
 
-use Yansongda\Supports\Pipeline;
+use Pengxul\Supports\Pipeline;
 
 class FooPipeline extends Pipeline
 {

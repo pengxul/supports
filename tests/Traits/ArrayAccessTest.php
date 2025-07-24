@@ -1,9 +1,9 @@
 <?php
 
-namespace Yansongda\Supports\Tests\Traits;
+namespace Pengxul\Supports\Tests\Traits;
 
 use PHPUnit\Framework\TestCase;
-use Yansongda\Supports\Tests\Stubs\TraitStub;
+use Pengxul\Supports\Tests\Stubs\TraitStub;
 
 class ArrayAccessTest extends TestCase
 {

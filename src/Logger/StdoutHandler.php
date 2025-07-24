@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Yansongda\Supports\Logger;
+namespace Pengxul\Supports\Logger;
 
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\Logger;

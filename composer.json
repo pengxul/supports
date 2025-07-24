@@ -1,7 +1,12 @@
 {
-    "name": "yansongda/supports",
+    "name": "pengxul/supports",
     "description": "common components",
-    "keywords": ["support", "array", "collection", "config"],
+    "keywords": [
+        "support",
+        "array",
+        "collection",
+        "config"
+    ],
     "support": {
         "issues": "https://github.com/yansongda/supports/issues",
         "source": "https://github.com/yansongda/supports"
@@ -12,6 +17,7 @@
             "email": "me@yansongda.cn"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
@@ -28,12 +34,12 @@
             "src/Functions.php"
         ],
         "psr-4": {
-            "Yansongda\\Supports\\": "src/"
+            "Pengxul\\Supports\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yansongda\\Supports\\Tests\\": "tests/"
+            "Pengxul\\Supports\\Tests\\": "tests/"
         }
     },
     "suggest": {

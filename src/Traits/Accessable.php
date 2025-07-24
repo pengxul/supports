@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Yansongda\Supports\Traits;
+namespace Pengxul\Supports\Traits;
 
-use Yansongda\Supports\Str;
+use Pengxul\Supports\Str;
 
 trait Accessable
 {

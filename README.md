@@ -13,7 +13,7 @@ handle with array/config/log/guzzle etc.
 ## About log
 
 ```PHP
-use Yansongda\Supports\Logger as Log;
+use Pengxul\Supports\Logger as Log;
 use Monolog\Logger;
 
 class ApplicationLogger
